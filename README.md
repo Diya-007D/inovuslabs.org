@@ -1,6 +1,6 @@
 # inovuslabs.org
 
-This template should help get you started developing with Vue 3 in Vite.
+This template is built with Vue 3 in Vite for modern web development.
 
 ## Recommended IDE Setup
 
