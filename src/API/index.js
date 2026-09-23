@@ -3859,7 +3859,7 @@ export const getTeamMembers = async () => {
                     }
                 },
                 {
-                    name: 'Cinni Joseph',
+                    name: 'Cini Joseph',
                     position: 'Asst.Nodal Officer',
                     description: 'As Assistant Nodal Officer, I support talent, drive IEDC growth, aid committee selection.',
                     avatar: BASE_URL + '/assets/team/2026-2027/Cini.png',
