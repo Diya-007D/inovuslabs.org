@@ -3864,9 +3864,9 @@ export const getTeamMembers = async () => {
                     description: 'As Assistant Nodal Officer, I support talent, drive IEDC growth, aid committee selection.',
                     avatar: BASE_URL + '/assets/team/2026-2027/Cini.png',
                     social: {
-                        instagram: "https://www.instagram.com/cinidiya?stkn=c203cGNxNGZmb3lu",
+                        instagram: "https://www.instagram.com/cinidiya",
                         github: "",
-                        linkedin: "https://www.linkedin.com/in/cini-joseph-56a1843b4?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+                        linkedin: "https://www.linkedin.com/in/cini-joseph-56a1843b4"
                     }
                 },
                 {
